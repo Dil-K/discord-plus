@@ -35,7 +35,7 @@
   --dplus-background-color-hue: 300;
   --dplus-background-color-saturation-amount: 1;
   --dplus-background-color-lightness-amount: 1;
-  --dplus-background-color-alpha: 0.5;
+  --dplus-background-color-alpha: 0.8;
 }
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
@@ -44,7 +44,7 @@
   
   --dplus-accent-color-hue: 210;
   --dplus-accent-color-saturation: 100%;
-  --dplus-accent-color-lightness: 50%;
+  --dplus-accent-color-lightness: 20%;
   
   --dplus-foreground-color-hue-base: 210;
   --dplus-foreground-color-hue-links: 197;
@@ -54,7 +54,7 @@
   --dplus-background-color-hue: 300;
   --dplus-background-color-saturation-amount: 1;
   --dplus-background-color-lightness-amount: 1;
-  --dplus-background-color-alpha: 0.5;
+  --dplus-background-color-alpha: 0.8;
 }
 
 :root {
