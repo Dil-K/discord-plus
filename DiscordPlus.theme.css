@@ -32,9 +32,9 @@
   --dplus-foreground-color-lightness-amount: 1;
 
 /* Background color: Covers the backdrop so the app is easier to read. */
-  --dplus-background-color-hue: 300;
-  --dplus-background-color-saturation-amount: 1;
-  --dplus-background-color-lightness-amount: 5;
+  --dplus-background-color-hue: 220;
+  --dplus-background-color-saturation-amount: 90%;
+  --dplus-background-color-lightness-amount: 10%;
   --dplus-background-color-alpha: 0.9;
 }
 
@@ -51,9 +51,9 @@
   --dplus-foreground-color-saturation-amount: 1;
   --dplus-foreground-color-lightness-amount: 1;
 
-  --dplus-background-color-hue: 300;
-  --dplus-background-color-saturation-amount: 1;
-  --dplus-background-color-lightness-amount: 5;
+  --dplus-background-color-hue: 220;
+  --dplus-background-color-saturation-amount: 90%;
+  --dplus-background-color-lightness-amount: 10%;
   --dplus-background-color-alpha: 0.9;
 }
 
