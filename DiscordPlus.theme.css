@@ -21,9 +21,9 @@
   --dplus-backdrop: url(https://imgur.com/a/iyp1ZKI.png);
 
 /* Accent color, used to decorate the UI with colors. */
-  --dplus-accent-color-hue: 320;
-  --dplus-accent-color-saturation: 60%;
-  --dplus-accent-color-lightness: 31%;
+  --dplus-accent-color-hue: 210;
+  --dplus-accent-color-saturation: 100%;
+  --dplus-accent-color-lightness: 50%;
 
 /* Foreground color: For things like text and icons. */
   --dplus-foreground-color-hue-base: 210;
@@ -42,9 +42,9 @@
 .theme-light {
   --dplus-backdrop: url(https://imgur.com/a/iyp1ZKI.png);
   
-  --dplus-accent-color-hue: 320;
-  --dplus-accent-color-saturation: 60%;
-  --dplus-accent-color-lightness: 31%;
+  --dplus-accent-color-hue: 210;
+  --dplus-accent-color-saturation: 100%;
+  --dplus-accent-color-lightness: 50%;
   
   --dplus-foreground-color-hue-base: 210;
   --dplus-foreground-color-hue-links: 197;
