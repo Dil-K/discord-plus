@@ -58,9 +58,9 @@
 
 :root {
   /* Fonts */
-  --dplus-font-ui: 'Constantia', serif;
-  --dplus-font-body: 'Constantia', serif;
-  --dplus-font-header: 'Constantia', serif;
+  --dplus-font-ui: 'Arial', serif;
+  --dplus-font-body: 'Arial', serif;
+  --dplus-font-header: 'Arial', serif;
 }
 
 /* Round corner sizes, measured in pixel radius.
